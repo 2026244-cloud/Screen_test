@@ -22,3 +22,6 @@ data_load_state.text('Done!')
 
 st.subheader("Raw Data")
 st.write(data)
+
+st.subheader("Number of Pickups per hour")
+hist_value=np.histogram
