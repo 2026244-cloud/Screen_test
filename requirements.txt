@@ -1,0 +1,6 @@
+steamlit
+plotly
+pandas
+numpy
+sqlalchemy
+pymysql
